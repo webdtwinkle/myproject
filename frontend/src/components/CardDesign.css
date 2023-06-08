@@ -1,0 +1,18 @@
+.me {
+    margin: 10px;
+     /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("https://images.unsplash.com/photo-1554196278-f6a49cff326c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"); */
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Share Tech", sans-serif;
+    height: 100vh;
+    /* transition-property: opacity, left, top ,height; */
+    /* transition-duration: 3s, 5s, 3s ,5s; */
+    /* background-color: transparent; */
+  } 
+ /* .me1
+ {
+    transition-property: opacity, left, top ,height;
+    transition-duration: 3s, 5s, 3s ,5s;
+ } */
